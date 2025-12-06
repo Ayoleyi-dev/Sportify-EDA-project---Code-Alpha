@@ -1,0 +1,25 @@
+🚀 How to Run
+Clone the repository:
+
+Bash
+
+git clone https://github.com/Ayoleyi-dev/Sportify-EDA-project---Code-Alpha
+Install dependencies:
+
+Bash
+
+pip install -r requirements.txt
+Open the notebook:
+
+Bash
+
+jupyter lab notebooks/spotify_analysis.ipynb
+
+📬 Contact
+Name: Ayoleyi Gbenga-Ayodeji Marvelous
+
+Role: Data Analyst | Biochemistry Student @ UNILAG
+
+https://www.linkedin.com/in/ayoleyi-gbenga-ayodeji-aa99b6395/
+
+tel/WhatsApp: +2349061367007
