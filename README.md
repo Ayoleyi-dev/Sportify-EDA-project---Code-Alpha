@@ -37,5 +37,7 @@ Pandas: Data cleaning and manipulation
 
 Seaborn & Matplotlib: Data visualization
 
-Jupyter Notebook: Interactive analysis environment
+Jupyter Notebook: Interactive analysis environment 
 
+This was supposed to be an internship final project but i got scammed 
+But the Resource and time cannot come to waste :) 
